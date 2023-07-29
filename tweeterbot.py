@@ -1,4 +1,5 @@
-#You will need to PIP INSTALL tweepy for this to work and also create a twitter API
+#You will need to PIP INSTALL tweepy for this to work and also create a twitter API 
+#you can edit this code and can add more functionalities according to your requirements.
 import tweepy
 import time
 
